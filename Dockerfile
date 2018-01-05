@@ -4,8 +4,8 @@ MAINTAINER Auhil <350764@qq.com>
 RUN apk add --update\
     bash\
     tzdata\
-	build-base\
-	zlib-dev\
+    build-base\
+    zlib-dev\
     python\
     python-dev\
     py-pip\
